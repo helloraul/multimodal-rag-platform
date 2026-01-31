@@ -16,3 +16,6 @@ SampleDataSet/*
 .DS_Store
 .idea/
 .vscode/
+predictions.json
+demo/
+raul-hybrid-multimodal-rag/
