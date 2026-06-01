@@ -1,4 +1,4 @@
-# Hybrid Multimodal RAG with Multi-Agent Orchestration
+# Production-Grade Multimodal RAG System
 
 > Production-grade multi-agent system where specialized AI agents coordinate to process unstructured documents (PDFs/images), retrieve relevant information, and synthesize accurate answers with autonomous decision-making and comprehensive evaluation.
 
